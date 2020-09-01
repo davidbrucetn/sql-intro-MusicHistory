@@ -1,0 +1,1 @@
+﻿Insert into Artist (ArtistName,YearEstablished) values ('Led Zeppelin', '1968');
